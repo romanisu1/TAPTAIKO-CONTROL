@@ -1,0 +1,2 @@
+# TAPTAIKO-CONTROL
+Androidアプリ「TAPTAIKO」専用のPC用アプリ「TAPTAIKO CONTROL」の配布ページです。
