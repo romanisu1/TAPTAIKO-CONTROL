@@ -1,7 +1,3 @@
-# TAPTAIKO-CONTROL
-Androidアプリ「TAPTAIKO」専用のPC用アプリ「TAPTAIKO CONTROL」の配布ページです。
-
-README 本文
 TAPTAIKO CONTROL
 Androidアプリ「TAPTAIKO」専用の、PC用アプリです。
 スマートフォンをUSBで接続し、画面のタップをキーボード入力としてPCに送ります。
